@@ -2,16 +2,15 @@
 
 Goku-Simulator is a 2D game where you can play as Goku, from the anime Dragon Ball. It includes many
 iconic features from the show such as...
+* kamehameha
 
-*kamehameha
+* dragon fist
 
-*dragon fist
+* spirit bomb
 
-*spirit bomb
+* super saiyan transformation
 
-*super saiyan transformation
-
-*ki blasts
+* ki blasts
 
 # Controls
 
