@@ -12,7 +12,7 @@ iconic features from the show such as...
 
 * ki blasts
 
-# Controls
+# Usage
 
 right arrow key = move right
 
@@ -30,10 +30,6 @@ space bar = jump
 
 1 = transformation into super saiyan 1
 
-### Super saiyan 1 controls:
-
-------
-
 *the controls below are only available when goku has transformed into a super saiyan*
 
 0 - transform back into base form
@@ -43,6 +39,14 @@ space bar = jump
 3 = dragon fist
 
 tab = kiblasts
+
+
+
+# Installation
+```
+pip install -r requirements.txt
+```
+
 
 
 
